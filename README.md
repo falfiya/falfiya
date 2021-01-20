@@ -7,6 +7,6 @@ Stuff I'm working on or proud of stays in [@coalpha](https://github.com/coalpha?
 If I'm finished or abandoning a project/repo, it gets moved to [@coarchive](https://github.com/coarchive).
 I'm also attending college at a college. Thus, [@coallege](https://github.com/coallege).
 
-## lstat
+## langs
 
-![coalpha's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coalpha&theme=dark)
+![coalpha's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coalpha&theme=dark&layout=compact&langs_count=10)
