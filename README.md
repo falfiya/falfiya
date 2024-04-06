@@ -1,4 +1,4 @@
-# falfiya (nnp.)
+# falfia / falfiya (nnp.)
 
 */faɫfiɑ/, /faɫfijɑ/*
 
